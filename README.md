@@ -15,7 +15,7 @@ A developer with potential and creativity who continuously grows in the rapidly 
   
 * ### About
    지속적으로 성장하고 혁신을 추구하는 개발자로서의 비전과 철학을 소개하였습니다. 
-  > 빠르게 변하는 웹개발 트랜드 속에서 다양한 시도와 함께 사용자를 배려하며, 성실하게 성장하는 프론트엔드 개발자입니다.
+  > 빠르게 변하는 웹개발 트랜드 속에서 다양한 시도와 함께 사용자를 배려하며, 성실하게 성장하는 개발자입니다.
   > </br>In the midst of rapidly changing web development trends, I will become a front-end developer who grows faithfully while considering the user's position and making various attempts.
 * ### Skills
   React, JavaScript, Nodejs, TailwindCSS, SCSS, PWA 등 사용 가능한 다양한 기술과 경험을 요약하였습니다.
