@@ -26,7 +26,7 @@ A developer with potential and creativity who continuously grows in the rapidly 
 * ### Open Source
   오픈 소스 프로젝트에 기여하며, React 기반으로 협업과 코드 품질 향상을 위한 지속적인 결과물을 소개하였습니다.
 * ### Contact
-  ADDRESS, TEL, EMAIL 등의 정보를 제공합니다.  
+  ADDRESS, TEL, EMAIL 등의 개인정보를 제공합니다.  
 **************************************
 ## 📣주요특징
 *  #### 감각적인 디자인:
