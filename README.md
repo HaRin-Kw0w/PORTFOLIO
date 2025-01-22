@@ -7,7 +7,7 @@
   세련된 디자인과 명확한 콘텐츠로 방문자에게 깊은 인상을 남깁니다.
   </br>GitHub, Notion 등의 소셜 링크를 제공하였습니다.
   
-* ### Profile
+* ### Introduction
    지속적으로 성장하고 혁신을 추구하는 개발자로서의 비전과 철학을 소개하였습니다. 
   > 빠르게 변화하는 웹 개발 트렌드 속에서 사용자의 입장을 고려하며 다양한 시도를 통해 결과를 만들어내는 개발자입니다.
   > </br>I am a developer who creates results through various attempts considering the user's perspective in the midst of rapidly changing web development trends.
