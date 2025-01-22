@@ -1,11 +1,5 @@
-# **안녕하세요 사용자를 배려하는 개발자 김하린입니다.**
-A developer with potential and creativity who continuously grows in the rapidly changing trends of web application development.
-
-
-
-## 🔔포트폴리오 소개 
+# **안녕하세요 사용자를 배려하는 개발자 김하린의 포트폴리오입니다.**
 이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
-</br>디자인과 개발 영역을 자유롭게 융합하며, 사용자 중심의 직관적이고 효율적인 웹 애플리케이션 및 앱 경험을 제공하는 것을 목표로 합니다. 지속적으로 새로운 기술을 배우고 문제 해결에 도전하며 성장하는 개발자의 여정을 담았습니다.
 
 *****************************************
 ## ⚙포트폴리오 구성
@@ -37,12 +31,12 @@ A developer with potential and creativity who continuously grows in the rapidly 
    React와 JavaScript를 기반으로 SCSS, Tailwind CSS 등 최신 기술 스택을 사용하여 트렌디하고 세련된 웹 페이지 개발
 * #### 협업 중심:
   GitHub를 통한 체계적인 버전 관리와 Notion을 이용한 효율적인 작업 프로세스 및 진행 관리
-
-
+*********************************************
   
-## 🔎Read More
+## 🔎더보기
 > * ### [notion-Portfolio](https://intriguing-quart-025.notion.site/Front-end-Developer-1271c427bf7a80c9bd19cc9a0dcfff2a)
 > * ### [Portfolio URL]( https://harin-kw0w.github.io/PORTFOLIO/)
 > * ### [codepen](https://codepen.io/your-work)
 > * ### E-mail : gogo6054@naver.com
 
+</br>COPYRIGHT ⓒ 2024 KIM H. ALL RIGHTS RESERVED.
