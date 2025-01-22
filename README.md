@@ -13,10 +13,10 @@ A developer with potential and creativity who continuously grows in the rapidly 
   세련된 디자인과 명확한 콘텐츠로 방문자에게 깊은 인상을 남깁니다.
   </br>GitHub, Notion 등의 소셜 링크를 제공하였습니다.
   
-* ### About
+* ### Profile
    지속적으로 성장하고 혁신을 추구하는 개발자로서의 비전과 철학을 소개하였습니다. 
-  > 빠르게 변하는 웹개발 트랜드 속에서 다양한 시도와 함께 사용자를 배려하며, 성실하게 성장하는 개발자입니다.
-  > </br>In the midst of rapidly changing web development trends, I will become a front-end developer who grows faithfully while considering the user's position and making various attempts.
+  > 빠르게 변화하는 웹 개발 트렌드 속에서 사용자의 입장을 고려하며 다양한 시도를 통해 결과를 만들어내는 개발자입니다.
+  > </br>I am a developer who creates results through various attempts considering the user's perspective in the midst of rapidly changing web development trends.
 * ### Skills
   React, JavaScript, Nodejs, TailwindCSS, SCSS, PWA 등 사용 가능한 다양한 기술과 경험을 요약하였습니다.
   </br> 각각의 기술에 대한 구체적 내용을 scrollTrigger를 활용한 동적인 애니메이션과 효과 구현을 통해 시각적 매력과 성능 최적화를 동시에 고려하여 정리하였습니다. 
