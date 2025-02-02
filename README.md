@@ -1,12 +1,5 @@
 # **HaRin Portfolio**
 이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
->
->#### 📌기술스택 
-- **Frontend Technologies:** React, HTML, CSS, SCSS, JavaScript, jQuery, TailwindCSS</br>
-- **Backend Technologies:** Node.js, MongoDB</br>
-- **Productivity Tools:** Git, Vercel, CodePen
-- **UI/UX Tools:** Figma, Adobe-Ai, Adobe-Ps
-- **Additional Technologies:** PWA (Progressive Web App) 
 *****************************************
 ## ⚙포트폴리오 구성
 ### 1. Home
@@ -37,7 +30,13 @@
   ### 6. Contact
   이메일, 주소 등의 개인정보를 제공합니다.  
 **************************************
-
+## 📌기술스택 
+- **Frontend Technologies:** React, HTML, CSS, SCSS, JavaScript, jQuery, TailwindCSS</br>
+- **Backend Technologies:** Node.js, MongoDB</br>
+- **Productivity Tools:** Git, Vercel, CodePen
+- **UI/UX Tools:** Figma, Adobe-Ai, Adobe-Ps
+- **Additional Technologies:** PWA (Progressive Web App)
+****************************************************************
 ## 🎨 주요특징
 *  **감각적인 디자인:**
    </br>반응형 레이아웃과 사용자 경험을 최우선으로 고려한 직관적인 디자인 구성
@@ -48,15 +47,33 @@
 * **협업 중심:**
   </br>GitHub를 통한 체계적인 버전 관리와 Notion을 이용한 효율적인 작업 프로세스 및 진행 관리
 *********************************************
-## 📌기술스택 
-- **Frontend Technologies:** React, HTML, CSS, SCSS, JavaScript, jQuery, TailwindCSS</br>
-- **Backend Technologies:** Node.js, MongoDB</br>
-- **Productivity Tools:** Git, Vercel, CodePen
-- **UI/UX Tools:** Figma, Adobe-Ai, Adobe-Ps
-- **Additional Technologies:** PWA (Progressive Web App) 
-  
-## 🔎  
-## 📫더보기
+##  📁 프로젝트
+### 1. Wylie 리뉴얼
+>[Check it Out🔎](https://wylie-rho.vercel.app)
+  - **Skills** : HTML, CSS3, JavaScript, React
+  - **상세설명**:
+    - React, Redux, Axios, SwiperJS, GSAP 등을 활용하여 스크롤 애니메이션 및 다양한 UI구현
+    - 직관적인 네비게이션, 모바일 메뉴, 위치 기반 시각적 효과로 모바일과 웹에서 최적화된 사용자 경험을 제공
+### 2. kakaofriends 리뉴얼
+>[Check it Out🔎](https://harin-kw0w.github.io/kakaofriends/)
+  - **Skills** : HTML5, CSS3, jQuery, SliderJS
+  - **상세설명**:
+    - CSS와 jQuery를 활용하여 동적 슬라이더와 사용자 인터페이스 등을 구성하여 실시간 프로모션과 기획전이 효과적으로 전달될 수 있도록 구현
+    - 카카오프렌즈 캐릭터 제품과 기획을 중심으로 웹 퍼블리싱을 진행하며, 웹 접근성을 고려한 Tab 기능을 활용한 콘텐츠 제공
+### 3. YG Entertainment 리뉴얼
+>[Check it Out🔎](https://harin-kw0w.github.io/YG-Entertainment-/)
+  - **Skills** : HTML, CSS, jQuery, JavaScript, SwiperJS, Video
+  - **상세설명**:
+    - HTML, CSS, jQuery를 활용하여 반응형 네비게이션, 동적인 이미지 슬라이더 그리고 스크롤에 따른 인터페이스 변화 등을 구현
+    - 다양한 인터랙티브 요소와 애니메이션 구현 및 메인 슬라이더의 상태를 관리하고 자동 및 수동 이미지 전환을 제공
+### 4. o'kichen 리뉴얼
+>[Check it Out🔎](https://harin-kw0w.github.io/o-kichen/)
+  - **Skills** : HTML5, CSS3, JavaScript, Swiper.js, Google Maps API, Mobile Navigation, PWA
+  - **상세설명**:
+    - HTML, CSS, JavaScript를 활용하여 반응형 웹 디자인과 모바일 내비게이션 기능을 제공
+    - Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현
+      
+## 💌더보기
 > * ### [notion-Portfolio](https://intriguing-quart-025.notion.site/Front-end-Developer-1271c427bf7a80c9bd19cc9a0dcfff2a)
 > * ### [Portfolio URL]( https://harin-kw0w.github.io/PORTFOLIO/)
 > * ### [codepen](https://codepen.io/your-work)
