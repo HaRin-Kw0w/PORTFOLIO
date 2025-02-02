@@ -74,7 +74,7 @@
     - HTML, CSS, JavaScript를 활용하여 반응형 웹 디자인과 모바일 내비게이션 기능을 제공
     - Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현
 **********************************************************************************************
-## 🌞초픈 소스
+## 🌞오픈 소스
   - **Fetch API :** React Hook과 Fetch API로 효율적인 데이터 관리
     
     - [View Open Source](open-source2-flax.vercel.app)
