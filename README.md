@@ -75,8 +75,12 @@
     - Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현
 **********************************************************************************************
 ## 🌞Open Source
-  **1. Fetch API :** React Hook과 Fetch API로 효율적인 데이터 관리   [🔎](open-source2-flax.vercel.app)
-#### 2. React Axios : AJAX의 방식으로 React Axios Library를 활용하여 Tab 기능 및 Video API 구현  [🔎](open-source7-six.vercel.app)
+  - **Fetch API :** React Hook과 Fetch API로 효율적인 데이터 관리
+    
+    - [View Open Source](open-source2-flax.vercel.app)
+-  **React Axios :** AJAX의 방식으로 React Axios Library를 활용하여 Tab 기능 및 Video API 구현
+  
+   - [View Open Source](open-source7-six.vercel.app)
 ### 3. GNB Fetch API : JSON 데이터와 map() 함수로 구현한 효율적인 GNB 구조 [🔎](open-source9-blond.vercel.app)
 ### 4. Mobile GNB : 
   
