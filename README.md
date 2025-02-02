@@ -12,7 +12,7 @@
   > 빠르게 변화하는 웹 개발 트렌드 속에서 사용자의 입장을 고려하며 다양한 시도를 통해 결과를 만들어내는 개발자입니다.
   > </br>I am a developer who creates results through various attempts considering the user's perspective in the midst of rapidly changing web development trends.
 * ### Skills
-  React, CSS, JavaScript, Nodejs, TailwindCSS, SCSS, 등 사용 가능한 다양한 기술과 경험을 요약하였습니다.
+  React, CSS, JavaScript, Nodejs, TailwindCSS, SCSS 등 사용 가능한 다양한 기술과 경험을 요약하였습니다.
   </br> 각각의 기술에 대한 구체적 내용을 scrollTrigger를 활용한 동적인 애니메이션과 효과 구현을 통해 시각적 매력과 성능 최적화를 동시에 고려하여 정리하였습니다. 
 * ### Projests
   이 프로젝트는 다양한 사이트를 리뉴얼한 개인 작업물입니다. </br>디자인과 개발을 넘나들며 사용자 경험을 최우선으로 고려하고 사용 가능한 기술들을 활용하여 구성하였습니다. 
