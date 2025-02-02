@@ -81,10 +81,30 @@
 -  **React Axios :** AJAX의 방식으로 React Axios Library를 활용하여 Tab 기능 및 Video API 구현
   
    - [View Open Source](open-source7-six.vercel.app)
-### 3. GNB Fetch API : JSON 데이터와 map() 함수로 구현한 효율적인 GNB 구조 [🔎](open-source9-blond.vercel.app)
-### 4. Mobile GNB : 
+- **GNB Fetch API :** JSON 데이터와 map() 함수로 구현한 효율적인 GNB 구조
   
-      
+  - [View Open Source](open-source9-blond.vercel.app)
+- **Mobile GNB :**  JSX 및 Event Handling등을 활용하여 React으로 반응적인 애플리케이션 구현
+  
+  - [View Open Source](open-source4-ivory.vercel.app)
+- **Product Binding:** React 상태 관리 최적화 및 Hooks와 useState를 통한 콘텐츠 업데이트
+  
+  -  [View Open Source](open-source3-olive.vercel.app)
+- **React Binding:** React와 Tailwind CSS를 활용한 뉴스 테이블 컴포넌트 구현
+
+  - [View Open Source](open-source1-nu.vercel.app)
+
+- **React State Hook:** React Hook으로 구현한 동적 '더보기' 기능과 사용자 경험 향상
+
+  - [View Open Source](open-source12-omega.vercel.app)
+ 
+- **SwiperJS:** React를 활용하여 SwiperJS의 상태를 관리, 인터랙티브한 효과를 구현
+  - [View Open Source](open-source11-six.vercel.app)
+  
+- **Video API:** React와 Fetch API, GSAP를 활용한 비디오 플레이어 상호작용 중심의 역동적인 웹 애플리케이션 
+   - [View Open Source](open-source6-five.vercel.app)
+     
+*******************************************************************************************      
 ## 💌더보기
 - **E-mail : gogo6054@naver.com**
 - **[github](https://github.com/HaRin-Kw0w)**
