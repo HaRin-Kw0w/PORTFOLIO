@@ -1,5 +1,6 @@
 # **HaRin Portfolio**
 이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
+
 *****************************************
 ## ⚙포트폴리오 구성
 ### 1. Home
@@ -72,11 +73,19 @@
   - **상세설명**:
     - HTML, CSS, JavaScript를 활용하여 반응형 웹 디자인과 모바일 내비게이션 기능을 제공
     - Google Maps API와 Swiper.js를 이용해 동적인 지도 표시와 슬라이더 효과 등을 구현
+**********************************************************************************************
+## 🌞Open Source
+  **1. Fetch API :** React Hook과 Fetch API로 효율적인 데이터 관리   [🔎](open-source2-flax.vercel.app)
+#### 2. React Axios : AJAX의 방식으로 React Axios Library를 활용하여 Tab 기능 및 Video API 구현  [🔎](open-source7-six.vercel.app)
+### 3. GNB Fetch API : JSON 데이터와 map() 함수로 구현한 효율적인 GNB 구조 [🔎](open-source9-blond.vercel.app)
+### 4. Mobile GNB : 
+  
       
 ## 💌더보기
-> * ### [notion-Portfolio](https://intriguing-quart-025.notion.site/Front-end-Developer-1271c427bf7a80c9bd19cc9a0dcfff2a)
-> * ### [Portfolio URL]( https://harin-kw0w.github.io/PORTFOLIO/)
-> * ### [codepen](https://codepen.io/your-work)
-> * ### E-mail : gogo6054@naver.com
+- **E-mail : gogo6054@naver.com**
+- **[github](https://github.com/HaRin-Kw0w)**
+- **[notion-Portfolio](https://intriguing-quart-025.notion.site/Front-end-Developer-1271c427bf7a80c9bd19cc9a0dcfff2a)**
+- **[codepen](https://codepen.io/your-work)**
+ 
 
 </br>COPYRIGHT ⓒ 2024 KIM H. ALL RIGHTS RESERVED.
