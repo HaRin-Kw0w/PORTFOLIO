@@ -112,4 +112,4 @@
 - **[codepen](https://codepen.io/your-work)**
  
 
-</br>COPYRIGHT ⓒ 2024 KIM H. ALL RIGHTS RESERVED.
+</br>COPYRIGHTⓒKIM H. ALL RIGHTS RESERVED.
